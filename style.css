@@ -1,0 +1,21 @@
+body {
+    font-family: 'Edu Australia VIC WA NT Hand Precursive',;
+    background: url('istockphoto-1155240408-612x612\ \(1\).jpg') no-repeat center center fixed; /* Imagem de fundo */
+    background-size: cover; /* Ajusta para cobrir toda a tela */
+    color: #121010; /* Texto em branco para contraste */
+}
+
+h1, h2 {
+    font-weight: 600;
+    font-family: 'Edu Australia VIC WA NT Hand Precursive',;
+}
+
+.btn {
+    font-weight: 400;
+}
+
+/* Fundo branco nos formulários e listas para melhor contraste */
+.container {
+    background: rgba(255, 255, 255, 0.8); /* Fundo branco translúcido */
+    border-radius: 10px;
+    padding: 20px;
